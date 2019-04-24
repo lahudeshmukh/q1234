@@ -4,7 +4,7 @@ pipeline {
   }
   environment {
     ORG = 'lahudeshmukh'
-    APP_NAME = 'quicktest'
+    APP_NAME = 'q123'
     CHARTMUSEUM_CREDS = credentials('jenkins-x-chartmuseum')
   }
   stages {
